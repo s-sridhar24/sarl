@@ -1,4 +1,4 @@
 # Heading 1
 ## Heading 2
-!lamp.jpg
+!(lamp.jpg)
 ### Heading 3
