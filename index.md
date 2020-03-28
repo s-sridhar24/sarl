@@ -1,4 +1,4 @@
 # Heading 1
 ## Heading 2
-![](sarl/lamp.jpg)
+![](lamp.jpg)
 ### Heading 3
